@@ -18,15 +18,15 @@ response:
     message: OK
   headers:
     Date:
-    - Wed, 14 Dec 2016 17:13:23 GMT
+    - Wed, 14 Dec 2016 17:14:13 GMT
     Server:
     - Apache/2.4.3 (Unix) OpenSSL/1.0.1c PHP/5.4.7
     X-Powered-By:
     - PHP/5.4.7
     Set-Cookie:
-    - PHPSESSID=o6acd4krqi91to14aspikeumk3; path=/
+    - PHPSESSID=kpik91d5r99vm96pmrmcdt3ga5; path=/
     - edd_items_in_cart=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/new/
-    - wfvt_2072467376=58517dbae0410; expires=Wed, 14-Dec-2016 17:43:30 GMT; path=/;
+    - wfvt_2072467376=58517dec994e2; expires=Wed, 14-Dec-2016 17:44:20 GMT; path=/;
       httponly
     Expires:
     - Thu, 19 Nov 1981 08:52:00 GMT
@@ -45,4 +45,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 14 Dec 2016 17:14:36 GMT
+recorded_at: Wed, 14 Dec 2016 17:15:26 GMT
